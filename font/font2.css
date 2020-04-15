@@ -1,0 +1,26 @@
+@font-face{
+	
+	font-family:"qlassik";
+	
+	
+	src:url("../font/qlassik.eot") format("eot"),
+	
+	url("../font/qlassik.woff") format("woff"),
+	
+	
+	
+	url("../font/qlassik.ttf") format("truetype"),
+	
+	
+	url("../font/qlassik.svg") format("svg");
+	
+	
+}
+
+body{
+	font-family:qlassik, lato !important;
+	font-weight:bold;
+	transition: all 0.5s ease;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+}
